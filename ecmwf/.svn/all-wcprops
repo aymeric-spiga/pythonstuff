@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/Planeto/!svn/ver/1197/trunk/UTIL/PYTHON/ecmwf
+END
+NEED_planetoplot_v1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1197/trunk/UTIL/PYTHON/ecmwf/NEED_planetoplot_v1
+END
+map_ecmwf.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/943/trunk/UTIL/PYTHON/ecmwf/map_ecmwf.py
+END
+ecmwf.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Planeto/!svn/ver/943/trunk/UTIL/PYTHON/ecmwf/ecmwf.py
+END
+create_ecmwf.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/943/trunk/UTIL/PYTHON/ecmwf/create_ecmwf.py
+END
+myecmwf.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Planeto/!svn/ver/943/trunk/UTIL/PYTHON/ecmwf/myecmwf.py
+END
